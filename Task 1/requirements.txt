@@ -1,0 +1,17 @@
+attrs
+big-O-dmunguiatec
+cycler
+importlib-metadata
+kiwisolver
+matplotlib
+more-itertools
+numpy
+packaging
+pluggy
+py
+pyparsing
+pytest
+python-dateutil
+six
+wcwidth
+zipp
