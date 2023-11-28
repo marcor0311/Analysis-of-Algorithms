@@ -12,4 +12,4 @@ The Analysis of Algorithms course provides a comprehensive understanding of algo
 
 ## Implementation
 
-It's crucial to note that all course concepts and examples will be implemented using Python for practical exercises and pseudocode for theoretical representations.
+It's important to note that all course concepts and examples were implemented using using Python for practical exercises and pseudocode for theoretical representations.
